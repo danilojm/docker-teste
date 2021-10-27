@@ -1,2 +1,2 @@
 # docker-teste
-My first projetc using Docker, PHP, JSand Bootstrap - with MySQL DB
+My first projetc using Docker, PHP, JS and Bootstrap - with MySQL
