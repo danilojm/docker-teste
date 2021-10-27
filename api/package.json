@@ -1,0 +1,22 @@
+{
+  "name": "docker-aula1-api",
+  "version": "1.0.0",
+  "description": "Aula de Docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon ./src/index"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Danilo",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
