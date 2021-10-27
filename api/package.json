@@ -1,5 +1,5 @@
 {
-  "name": "docker-aula1-api",
+  "name": "docker-node-api",
   "version": "1.0.0",
   "description": "Aula de Docker",
   "main": "index.js",
