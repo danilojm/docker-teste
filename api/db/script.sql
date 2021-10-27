@@ -9,5 +9,7 @@ CREATE TABLE IF NOT EXISTS products (
 	PRIMARY KEY (id)
 );
 
-INSERT INTO products VALUE(0, 'Curse Front-End Especialist', 2500);
-INSERT INTO products VALUE(0, 'Curse JS Especialist', 1500);
+INSERT INTO products VALUE(0, 'Front-End Especialist Course', 2500);
+INSERT INTO products VALUE(0, 'JS Especialist Course', 1500);
+INSERT INTO products VALUE(0, 'Marketing Course', 6500);
+INSERT INTO products VALUE(0, 'Pole Dance Especialist Course', 10000);
